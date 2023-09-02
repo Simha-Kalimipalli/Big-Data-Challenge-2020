@@ -1,5 +1,5 @@
 # Big-Data-Challenge-2020
-Finalist (among 118 teams from 84 Canadian high schools) in  High School Big Data Challenge 2020. Paper presented and published: Investigating Effects of Climate Change on Atlantic Ocean Hurricanes.The the project, We developed a predictive model for estimation of frequency and intensity of hurricanes based on ocean heat content.  Published in STEM Fellowship Journal. 
+Finalist (among 118 teams from 84 Canadian high schools) in  High School Big Data Challenge 2020. Paper presented and published abtstract: Investigating Effects of Climate Change on Atlantic Ocean Hurricanes.The the project, We developed a predictive model for estimation of frequency and intensity of hurricanes based on ocean heat content.  Published in STEM Fellowship Journal. 
 
 Technologies used: Python, Excel, Atlantic Hurricane database (HURDAT2)
 
